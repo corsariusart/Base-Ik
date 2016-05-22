@@ -1,2 +1,9 @@
 # base-ic
-base-ic tumblrtheme
+
+Base-Ic is a minimalistic Tumblr theme meant for artists.
+
+## Basic concepts
+
+* Clean minimal environmet
+* Professional-looking aimed at artists
+* Customizable

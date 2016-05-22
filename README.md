@@ -1,4 +1,4 @@
-# base-ic
+# Base-Ik
 
 Base-Ic is a minimalistic Tumblr theme meant for artists.
 

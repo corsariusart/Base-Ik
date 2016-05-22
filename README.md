@@ -1,9 +1,3 @@
 # Base-Ik
 
-Base-Ik is a minimalistic Tumblr theme meant for artists.
-
-## Basic concepts
-
-* Clean minimal environmet
-* Professional-looking aimed at artists
-* Customizable
+Base-Ik is a minimalistic Tumblr theme meant for artists who want a professional-looking and customizable blog for their art
